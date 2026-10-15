@@ -3,8 +3,7 @@
 **Verdict: Verification passed.** The checks covered static review, a clean build with the pinned toolchain and Mathlib, `#print axioms`, and statement-correspondence review. No external checker (lean4checker or Comparator) was run.
 
 Checked artifact: this folder, file `JSP444.lean` (1593 lines, sha256 `6853c1a8e16ca166f3feeaadf25e7b55b2174819656a1407300ea785f5bfdd91`).
-- Before publishing, re-run the build on the pushed commit and record the SHA in the PR.
-- The commit will not exist until the repository is created.
+- Submitted commit: `f3177cade914b990fa37bcf0ebffe0dcfe0eafce`, containing this exact file. Submitted as [TheJustinSunPrize/awards#5065](https://github.com/TheJustinSunPrize/awards/pull/5065).
 
 Date: 2026-10-14.
 

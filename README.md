@@ -10,6 +10,8 @@ This is a complete, `sorry`-free Lean 4 / Mathlib formalization of the answer to
 **Answer (Alon–Rödl 2005):** R(3,3,m) = m³ · (log m)^{O(1)}. In particular R(3,3,m)/R(3,m) → ∞,
 which is the Erdős–Sós conjecture asked on erdosproblems.com/553.
 
+**Status:** submitted for the Justin Sun Prize Lean slot as [TheJustinSunPrize/awards#5065](https://github.com/TheJustinSunPrize/awards/pull/5065) (pinned commit `f3177cad`).
+
 ## Main theorem (`JSP444.lean`)
 
 ```lean
